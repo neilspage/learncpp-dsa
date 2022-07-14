@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iterator>
 
 int findMin(int array[], int start, int arraySize);
 void printArray(int array[], int arraySize);
